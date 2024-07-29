@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1800 1800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        font-size: 67.3px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #363636;
+        font-family: ReemKufi-Bold, 'Reem Kufi';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 386.72px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1226.49" y1="874.98" x2="838.38" y2="874.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b3b3b"/>
+      <stop offset=".27" stop-color="#373737"/>
+      <stop offset=".52" stop-color="#2b2b2b"/>
+      <stop offset=".77" stop-color="#181818"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="430.92" y1="416.78" x2="834.72" y2="416.78" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1356.67" y1="457.05" x2="1106.13" y2="457.05" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="955.47" y1="270.94" x2="955.47" y2="1190.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b7fe9"/>
+      <stop offset=".24" stop-color="#5377e3"/>
+      <stop offset=".62" stop-color="#3d63d3"/>
+      <stop offset="1" stop-color="#2048bf"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-5" d="m1276.66,875.07c0,88.93-70.12,161.47-158.09,165.38,5.9-.64,11.24-3.31,15.22-7.32,4.66-4.62,7.5-11.02,7.5-18.1,0-14.15-11.45-25.6-25.6-25.6h-227.14l103.86-279.91h118.69c91.42,0,165.56,74.14,165.56,165.56Z"/>
+  <path class="cls-1" d="m788.63,251.24l-122.82,331.08h-115.42c-91.45,0-165.56-74.1-165.56-165.52s74.1-165.56,165.56-165.56h238.24Z"/>
+  <circle class="cls-4" cx="1243.17" cy="457.05" r="125.27"/>
+  <path class="cls-6" d="m1415.16,276.84c0,7.08-2.84,13.48-7.5,18.1-4.62,4.66-11.02,7.5-18.1,7.5h-246.13l-151.01,407.06-103.86,279.91h227.14c14.15,0,25.6,11.45,25.6,25.6,0,7.08-2.84,13.48-7.5,18.1-3.98,4.02-9.32,6.68-15.22,7.32-2.45.11-4.94.18-7.47.18H495.78l170.04-458.3,122.82-331.08h600.92c14.15,0,25.6,11.45,25.6,25.6Z"/>
+  <text class="cls-3" transform="translate(506.08 1415.4)"><tspan x="0" y="0">SBC</tspan></text>
+  <text class="cls-2" transform="translate(518.45 1548.76)"><tspan x="0" y="0">Secure Byte Chronicles</tspan></text>
+</svg>
